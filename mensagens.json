@@ -1,0 +1,78 @@
+{
+    "functions": {
+        "comandos": "allComands()",
+        "mensagens": "allMessages()",
+        "selfie": "selfie()",
+        "audios": {
+            "sustinho": "playSoundOnChannel('./mp3/earrape.mp3', 4000)",
+            "somebody": "playSoundOnChannel('./mp3/somebody.mp3', 4000)",
+            "stfu": "playSoundOnChannel('./mp3/stfucunt.mp3', 8000)",
+            "winxp": "playSoundOnChannel('./mp3/winxp.mp3', 4000)",
+            "welcome": "playSoundOnChannel('./mp3/welcome.mp3', 3000)",
+            "arnold": "playSoundOnChannel('./mp3/arnold.mp3', 8000)",
+            "burgues": "playSoundOnChannel('./mp3/burgues.mp3', 6000)",
+            "croissant": "playSoundOnChannel('./mp3/croissant.mp3', 3000)",
+            "scream": "playSoundOnChannel('./mp3/scream.mp3', 4000)",
+            "urss": "playSoundOnChannel('./mp3/urss.mp3', 8000)",
+            "DAN_FUCKING_SCHNEIDER": "playSoundOnChannel('./mp3/dan.mp3', 12000)",
+            "milagre": "playSoundOnChannel('./mp3/angel.mp3', 7000)",
+            "sad": "playSoundOnChannel('./mp3/verysad.mp3', 8000)",
+            "sadrape": "playSoundOnChannel('./mp3/sadrape.mp3', 10000)",
+            "porra": "playSoundOnChannel('./mp3/away.mp3', 2500)",
+            "con_gratulation": "playSoundOnChannel('./mp3/con_gratulation.mp3', 6900)",
+            "con_millions": "playSoundOnChannel('./mp3/con_millions.mp3', 9000)",
+            "1000": "playSoundOnChannel('./mp3/1000.mp3', 14000)",
+            "cazalbe": "playSoundOnChannel('./mp3/cazalbe.mp3', 6000)",
+            "milagre1": "playSoundOnChannel('./mp3/milagre1.mp3', 8000)"
+        }
+    },
+    "predefined": {
+        "revengers": "São tudo uns bunda mole.",
+        "shadow": "to gripado",
+        "dud": "perai q chegou minha janta",
+        "martin": "vo toma um toddy",
+        "spida": "tenho autismo avançado",
+        "kleber": "mão de vaca mas paga 149 reais num pastel",
+        "mario": "perai q to lendo boku no pico"
+    },
+    "lanaActions": {
+        "1": "Counter-Strike GO",
+        "2": "Lendo 'Como Conquistar o Cachorro do Vizinho'",
+        "3": "Tonificando o trapézio",
+        "4": "Quebrando tabus",
+        "5": "Spam de menes",
+        "6": "Lendo Boku no Pico",
+        "7": "Latindo pro Shadow",
+        "8": "Navegando no Xvideos"
+    },
+    "lana": {
+        "1": {
+            "file": "./selfie/1.jpg",
+            "descricao": "eae galera blsss rsrs"
+        },
+        "2": {
+            "file": "./selfie/2.jpg",
+            "descricao": "krl qq sera q foi esse barulio"
+        },
+        "3": {
+            "file": "./selfie/3.jpg",
+            "descricao": "ser tao linda cansa viu"
+        },
+        "4": {
+            "file": "./selfie/4.jpg",
+            "descricao": "nessa aqui eu to relaxano"
+        },
+        "5": {
+            "file": "./selfie/5.jpg",
+            "descricao": "kct to pareseno uma rolha de posso shadow fila da puta"
+        },
+        "6": {
+            "file": "./selfie/6.jpg",
+            "descricao": "sempre q eu vo dormi tem 1 taradao tirando foto"
+        },
+        "7": {
+            "file": "./selfie/7.jpg",
+            "descricao": "olia to nas arabia allahu ackbar"
+        }
+    }
+}
