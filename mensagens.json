@@ -23,7 +23,10 @@
             "con_millions": "playSoundOnChannel('./mp3/con_millions.mp3', 9000)",
             "1000": "playSoundOnChannel('./mp3/1000.mp3', 14000)",
             "cazalbe": "playSoundOnChannel('./mp3/cazalbe.mp3', 6000)",
-            "milagre1": "playSoundOnChannel('./mp3/milagre1.mp3', 8000)"
+            "milagre1": "playSoundOnChannel('./mp3/milagre1.mp3', 8000)",
+            "door": "playSoundOnChannel('./mp3/doorknock.mp3', 5000)",
+            "pitonboanoite": "playSoundOnChannel('./mp3/pitonboanoite.mp3', 6000)",
+            "pitonsuaboca": "playSoundOnChannel('./mp3/chegueigozando.mp3', 10000)"
         }
     },
     "predefined": {

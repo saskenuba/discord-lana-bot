@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = 'MzM0NDAyOTEwNDQ2Mjg4ODk3.DEasiA.ziRt2DUs6CQV0l1w7MAYkwnPmrs';
+const token = 'MzM3Mjg3MTA1NTc3MjIyMTQ0.DFEqpQ.DrkRO_3PuAw3DM4ULkbgSwDZAs0';
 const Cleverbot = require('cleverbot');
 
 // Instantiating cleverbot
@@ -19,7 +19,7 @@ client.login(token);
 client.on("ready", () => {
     console.log("Tudo certo chefia. Estou conectado!");
     client.user.setGame('Comendo ração');
-    setRandomStatus(25000, myMessages);
+    setRandomStatus(30000, myMessages);
 });
 
 client.on("message", message => {
